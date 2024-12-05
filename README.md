@@ -27,3 +27,5 @@
 ![image](https://github.com/user-attachments/assets/fe2b6132-7ab8-42bc-8777-b64327104201)
 **Sube el repositorio Git Local al Remoto**
 1.Ya sabes como hacerlo, si no te acuerdas tienes aquí la guía de comandos
+![image](https://github.com/user-attachments/assets/e44e5d60-a7ea-43bd-81e8-39c317b2e011)
+![image](https://github.com/user-attachments/assets/94276602-fa15-4cb8-afc2-2f44dcd77408)
